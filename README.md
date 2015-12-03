@@ -2,5 +2,4 @@
  
 practicing mailers and deployment in Ruby On Rails -->
 
- Action Mailer
- Heroku
+ Action Mailer & Heroku
